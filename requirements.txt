@@ -1,0 +1,5 @@
+git+https://github.com/TaprisSugarbell/AnimeThemes.git
+pyrogram
+pyromod
+python-decouple
+TgCrypto
